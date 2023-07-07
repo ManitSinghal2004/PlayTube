@@ -1,4 +1,4 @@
-#PlayTube
+# PlayTube
 
 PlayTube is a YouTube application clone that I developed using React.js and Material-UI. It offers users a familiar YouTube-like experience while incorporating some unique features.
 
